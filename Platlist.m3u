@@ -79,6 +79,26 @@ https://player.twitch.tv/?channel=voicetv&parent=www.tvjaa.com
 # =======================================================
 #Movie & Series
 
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-channel-logo-mobile-white-hbo.png" group-title="Movie & Series", HBO HD
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-channel-logo-mobile-white-hits.png" group-title="Movie & Series", HBO Hits
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-channel-logo-mobile-white-family.png" group-title="Movie & Series", HBO Family
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-channel-logo-mobile-white-signature.png" group-title="Movie & Series", HBO Signature
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-channel-logo-mobile-white-red.png" group-title="Movie & Series", Red by HBO
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/4.m3u8
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png" group-title="Movie & Series", True Film HD
 #https://laos-tech-live.b-cdn.net/hd-tfilm_720/index.m3u8
 http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
@@ -104,34 +124,6 @@ https://laos-tech-live.b-cdn.net/hd-foxfamily_720/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/4.m3u8
 #http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-channel-logo-mobile-white-hbo.png" group-title="Movie & Series", HBO HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/4.m3u8
-#http://dootvthai-hd.com/cmd/api/hbo/hbohd/playlist.m3u8
-#http://77.83.117.60:8888/02_HBOHD_720p/chunklist.m3u8
-#https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-channel-logo-mobile-white-hits.png" group-title="Movie & Series", HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/4.m3u8
-#http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8
-#https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-channel-logo-mobile-white-family.png" group-title="Movie & Series", HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/4.m3u8
-#http://dootvthai-hd.com/cmd/api/hbo/famhd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-channel-logo-mobile-white-signature.png" group-title="Movie & Series", HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/4.m3u8
-#http://dootvthai-hd.com/cmd/api/hbo/sighd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-channel-logo-mobile-white-red.png" group-title="Movie & Series", Red by HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/4.m3u8
-#http://dootvthai-hd.com/cmd/api/hbo/red/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/17/29c502d0-5142-11ea-acae-37cf86553dda_original.png" group-title="Movie & Series", Warner TV
 http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
@@ -292,12 +284,11 @@ https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_720p/playlist.m3u8
 # =======================================================
 #Knowledge
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png" group-title="Knowledge", Discovery
-https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png" group-title="Knowledge", Discovery VN
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/978fc2da-8f65-410f-bff8-931b22c37324.png" group-title="Knowledge", Discovery Asia
-http://160.119.77.116:8081/iptv/hd-discovery.stream/playlist.m3u8
-#https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png" group-title="Knowledge", History Channel HD
 http://160.119.77.116:8081/iptv/hd-history.stream/playlist.m3u8
@@ -370,12 +361,11 @@ https://cdn6.goprimetime.info/feed/LC33/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="News", Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/a6b13167-4067-4797-a04f-7e90c525b0c8.png" group-title="News", DW (Deutsch)
-https://cdn6.goprimetime.info/feed/LC12/index.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/a6b13167-4067-4797-a04f-7e90c525b0c8.png" group-title="News", DW (Deutsch) VN
+https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/622f7e14-4624-4454-a63f-0bd428c399b3.png" group-title="News", Russia Today
-#https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
-https://cdn6.goprimetime.info/feed/LC9/index.m3u8
+https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bloomberg-television-logo-png-transparent.png" group-title="News", (X)Bloomberg TV
 http://160.119.77.116:8081/iptv/sd-bloomberg.stream/playlist.m3u8
